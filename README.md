@@ -1,182 +1,205 @@
-# Nayan-Pimpale
+
+# Nayan Pimaple
 # 👋 Hi, I'm Nayan Pimpale
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,45:12306B,100:00C6FF&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=NAYAN%20PIMPALE&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=DEVOPS%20%7C%20CLOUD%20%7C%20AUTOMATION&descAlignY=60&color=0:09001F,50:240046,100:00B4D8" width="100%"/>
 
-### 🚀 Aspiring DevOps & Cloud Engineer | Computer Engineering Graduate
+### 🚀 Aspiring DevOps & Cloud Engineer
 
-**Learning • Building • Automating • Growing**
+*Turning ideas into automation. Learning today, building tomorrow.*
 
-<img src="https://img.shields.io/badge/CAREER-FRESHER-0284C7?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/LOCATION-WARDHA%2C%20INDIA-0284C7?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/FOCUS-DEVOPS%20%7C%20CLOUD-0284C7?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/PROFILE-FRESHER-00F5FF?style=for-the-badge&labelColor=10002B"/>
+<img src="https://img.shields.io/badge/FOCUS-DEVOPS-BC00FF?style=for-the-badge&labelColor=10002B"/>
+<img src="https://img.shields.io/badge/CLOUD-AWS-FF9900?style=for-the-badge&labelColor=10002B"/>
 
 <a href="https://github.com/NayanPimpale">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍🚀 About Me
 
-Hello! I'm **Nayan Pimpale**, a Computer Engineering graduate from Wardha, Maharashtra, India.
+Hey there! I'm **Nayan Pimpale**, a Computer Engineering graduate from Wardha, Maharashtra, India.
 
-I'm an aspiring IT professional interested in DevOps, Cloud Computing.
-
-I enjoy learning new technologies, solving technical problems and building practical projects.
+I'm passionate about **DevOps, Cloud Computing, and Automation**. I enjoy exploring new technologies, working with cloud infrastructure, and learning how to automate development workflows.
 
 - 🎓 B.Tech in Computer Engineering
-- ☁️ Learning AWS Cloud Computing
-- 🔄 Practicing CI/CD using Jenkins and Maven
-- 🐧 Learning Linux commands and administration
-- 🛠️ Exploring Git and GitHub
-- 💻 Interested in DevOps and Software Testing
-- 🎯 Goal: To build a successful career in the IT industry
+- ☁️ Exploring AWS Cloud Services
+- ⚙️ Practicing CI/CD with Jenkins and Maven
+- 🐧 Working with Linux and Ubuntu
+- 🔗 Learning Git and GitHub
+- 🚀 Exploring Docker and DevOps tools
+- 🎯 Goal: Become a skilled DevOps and Cloud Engineer
 
 ```bash
-$ whoami
-Nayan Pimpale
-
-$ cat profile.yml
-
-role:       Aspiring DevOps Engineer
-education:  B.Tech Computer Engineering
-location:   Wardha, Maharashtra, India
-experience: Fresher
-
-interests:
-  - Cloud Computing
-  - DevOps
-  - Automation
-  - CI/CD
-
-status: Learning and building projects
+┌──[ nayan@devops ]──[~]
+│
+├── name       : Nayan Pimpale
+├── role       : Aspiring DevOps Engineer
+├── education  : B.Tech Computer Engineering
+├── location   : Maharashtra, India
+├── experience : Fresher
+│
+├── interests  :
+│   ├── Cloud Computing
+│   ├── DevOps Engineering
+│   ├── CI/CD Automation
+│   └── Infrastructure
+│
+└── status     : Building. Learning. Automating.
 ```
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ My Tech Universe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github,jenkins,docker,java,python,maven,mysql&theme=dark&perline=6"/>
+### ☁️ Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,docker&theme=dark"/>
+
+### 🔄 DevOps & Version Control
+
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,maven&theme=dark"/>
+
+### 💻 Programming & Database
+
+<img src="https://skillicons.dev/icons?i=java,python,mysql&theme=dark"/>
 
 </div>
 
-| Category | Technologies |
+---
+
+## 🧩 Technology Stack
+
+| Domain | Technologies |
 |---|---|
-| Cloud | AWS (EC2 fundamentals) |
+| Cloud | AWS, EC2 fundamentals |
 | Operating Systems | Linux, Ubuntu, Windows |
 | Version Control | Git, GitHub |
 | CI/CD | Jenkins, Maven |
+| Containers | Docker (learning) |
 | Programming | Java, Python |
 | Database | SQL, MySQL |
-| Learning Areas | DevOps, Cloud, Software Testing |
 
 ---
 
-## 🔄 DevOps Learning Journey
+## 🔥 My DevOps Workflow
 
-My current learning workflow:
+<div align="center">
 
 ```mermaid
-flowchart LR
-    A[Source Code] --> B[GitHub]
-    B --> C[Jenkins]
-    C --> D[Maven]
-    D --> E[Build]
-    E --> F[Test]
-    F --> G[Verify]
+flowchart TD
+    A["💻 Developer"] --> B["📂 Git & GitHub"]
+    B --> C["⚙️ Jenkins Pipeline"]
+    C --> D["📦 Maven Build"]
+    D --> E["🧪 Automated Tests"]
+    E --> F["🚀 Build Verification"]
+    F --> G["☁️ Cloud Deployment"]
 ```
 
-I'm learning how to automate software build and testing processes using Jenkins and Maven.
-
----
-
-## 🚀 Projects & Practice
-
-### 1. Spring PetClinic Maven CI Pipeline
-
-**Technologies:** GitHub | Jenkins | Maven | Java
-
-- Integrating GitHub with Jenkins.
-- Checking project validation.
-- Compiling Java source code.
-- Running unit tests.
-- Verifying and installing the Maven project.
-
-[View Spring PetClinic Repository](https://github.com/NayanPimpale/spring-framework-petclinic)
-
-### 2. AWS EC2 Practice
-
-**Technologies:** AWS | EC2 | Ubuntu | Linux
-
-- Learning how to launch EC2 instances.
-- Connecting to Ubuntu instances using SSH.
-- Practicing Linux commands.
-- Understanding cloud server fundamentals.
-
-### 3. Jenkins CI/CD Practice
-
-**Technologies:** Jenkins | Git | Maven
-
-- Creating Jenkins declarative pipelines.
-- Integrating source code repositories.
-- Automating Maven build stages.
-- Understanding continuous integration.
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+**Automate the process. Simplify the workflow. Build better systems.**
 
 </div>
 
-- AWS services and cloud infrastructure
+---
+
+## 🚀 Projects & Hands-on Practice
+
+### 01. Spring PetClinic – Maven CI Pipeline
+
+<img src="https://img.shields.io/badge/PROJECT-CI%2FCD-BC00FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jenkins-AUTOMATION-D24939?style=flat-square"/>
+
+**Technologies:** Java · Maven · GitHub · Jenkins
+
+- Integrated a GitHub repository with Jenkins.
+- Created a Declarative Jenkins Pipeline.
+- Practiced Maven validation and compilation.
+- Automated build and verification stages.
+
+🔗 [View Project Repository](https://github.com/NayanPimpale/spring-framework-petclinic)
+
+### 02. AWS EC2 – Cloud Server Practice
+
+<img src="https://img.shields.io/badge/PROJECT-CLOUD-FF9900?style=flat-square"/>
+
+**Technologies:** AWS · EC2 · Ubuntu · SSH
+
+- Practiced launching EC2 instances.
+- Connected to Ubuntu servers using SSH.
+- Executed Linux commands on cloud servers.
+- Explored basic cloud server administration.
+
+### 03. Jenkins – CI/CD Pipeline Practice
+
+<img src="https://img.shields.io/badge/PROJECT-AUTOMATION-00F5FF?style=flat-square"/>
+
+**Technologies:** Jenkins · Git · Maven
+
+- Created Jenkins Declarative Pipelines.
+- Connected source code repositories.
+- Automated Maven build stages.
+- Explored continuous integration workflows.
+
+---
+
+## 📡 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-Pipeline%20Automation-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Server%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
+- AWS cloud services and infrastructure
 - Jenkins pipeline automation
 - Docker and containerization
-- Linux administration
+- Linux server administration
+- Maven build management
 - DevOps tools and practices
-- Software Testing fundamentals
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Command Center
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NayanPimpale&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NayanPimpale&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0221&title_color=00F5FF&icon_color=BC00FF&text_color=FFFFFF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanPimpale&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanPimpale&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=FFFFFF"/>
 
-<img src="https://streak-stats.demolab.com?user=NayanPimpale&theme=tokyonight&hide_border=true" width="75%"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=NayanPimpale&theme=midnight-purple&hide_border=true&background=0D0221&ring=BC00FF&fire=00F5FF&currStreakLabel=00F5FF"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-I'm interested in learning, collaborating and working on practical IT projects.
+I'm always interested in learning, collaborating, and building exciting technology projects.
+
+<div align="center">
 
 <a href="https://github.com/NayanPimpale">
 <img src="https://img.shields.io/badge/GitHub-NayanPimpale-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<div align="center">
+<br/><br/>
 
-### ⭐ Learn Every Day. Build Every Day. Grow Every Day.
+### 🌌 THINK BIG. AUTOMATE EVERYTHING. KEEP BUILDING.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C6FF,50:12306B,100:020617" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00B4D8,50:240046,100:09001F" width="100%"/>
 
 </div>
+
