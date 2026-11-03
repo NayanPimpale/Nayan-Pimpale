@@ -25,7 +25,7 @@
 
 Hello! I'm **Nayan Pimpale**, a Computer Engineering graduate from Wardha, Maharashtra, India.
 
-I'm an aspiring IT professional interested in DevOps, Cloud Computing, Software Testing and automation.
+I'm an aspiring IT professional interested in DevOps, Cloud Computing.
 
 I enjoy learning new technologies, solving technical problems and building practical projects.
 
