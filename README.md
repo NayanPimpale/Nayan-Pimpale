@@ -51,7 +51,6 @@ experience: Fresher
 interests:
   - Cloud Computing
   - DevOps
-  - Software Testing
   - Automation
   - CI/CD
 
